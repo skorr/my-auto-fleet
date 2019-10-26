@@ -7,6 +7,6 @@ six ways to Sunday
 lucky 7
 8
 Cat lives
-
+Rin Tin Tin
 This is to test amending
 commit this now
